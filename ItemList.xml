@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <ItemList NumItems="5">
-	<Item Name="M4A1" Type="Assault Rifle" FireType="Full Auto" />
-	<Item Name="M16A4" Type="Assault Rifle" FireType="3 Round Burst" />
-	<Item Name="SCAR-L" Type="Assault Rifle" FireType="Full Auto" />
-	<Item Name="CM901" Type="Assault Rifle" FireType="Full Auto" />
-	<Item Name="TYPE 95" Type="Assault Rifle" FireType="3 Round Burst" />
-	<Item Name="USAS 12" Type="Shotgun" FireType="Full Auto" />
-	<Item Name="KSG 12" Type="Shotgun" FireType="Pump Action" />
-	<Item Name="SPAS-12" Type="Shotgun" FireType="Pump Action" />
-	<Item Name="AA-12" Type="Shotgun" FireType="Full Auto" />
-	<Item Name="STRIKER" Type="Shotgun" FireType="Full Auto" />
-	<Item Name="USP .45" Type="Pistol" FireType="Semi Auto" />
-	<Item Name="P99" Type="Pistol" FireType="Semi Auto" />
-	<Item Name="MP412" Type="Pistol" FireType="Semi Auto" />
-	<Item Name="44 MAGNUM" Type="Pistol" FireType="Semi Auto" />
-	<Item Name="FIVE SEVEN" Type="Pistol" FireType="Semi Auto" />
+	<Item Name="M4A1" Type="Assault Rifle" FireRate="Full Auto" />
+	<Item Name="M16A4" Type="Assault Rifle" FireRate="3 Round Burst" />
+	<Item Name="SCAR-L" Type="Assault Rifle" FireRate="Full Auto" />
+	<Item Name="CM901" Type="Assault Rifle" FireRate="Full Auto" />
+	<Item Name="TYPE 95" Type="Assault Rifle" FireRate="3 Round Burst" />
+	<Item Name="USAS 12" Type="Shotgun" FireRate="Full Auto" />
+	<Item Name="KSG 12" Type="Shotgun" FireRate="Pump Action" />
+	<Item Name="SPAS-12" Type="Shotgun" FireRate="Pump Action" />
+	<Item Name="AA-12" Type="Shotgun" FireRate="Full Auto" />
+	<Item Name="STRIKER" Type="Shotgun" FireRate="Full Auto" />
+	<Item Name="USP .45" Type="Pistol" FireRate="Semi Auto" />
+	<Item Name="P99" Type="Pistol" FireRate="Semi Auto" />
+	<Item Name="MP412" Type="Pistol" FireRate="Semi Auto" />
+	<Item Name="44 MAGNUM" Type="Pistol" FireRate="Semi Auto" />
+	<Item Name="FIVE SEVEN" Type="Pistol" FireRate="Semi Auto" />
 </ItemList>
