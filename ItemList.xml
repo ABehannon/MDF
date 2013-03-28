@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ItemList NumItems="5">
+	<Item Name="Shotgun" Type="Gun" Quality="Bad" />
+	<Item Name="Rifle" Type="Gun" Quality="Good" />
+	<Item Name="Pistol" Type="Gun" Quality="New" />
+	<Item Name="Carbine" Type="Gun" Quality="Good" />
+	<Item Name="K98" Type="Gun" Quality="New" />
+</ItemList>
